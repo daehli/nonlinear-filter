@@ -1,4 +1,4 @@
-# TP4 : Filtres non-linéaires
+# Filtres non-linéaires
 
  Réaliser par:
 
