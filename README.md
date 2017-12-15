@@ -226,7 +226,6 @@ Les filtres non-linéaires sont décrits par 2 fonctions morphologiques de base:
 
 On peut ensuite réutiliser ces 2 fonctions pour faire d'autres actions. Par exemple, l'ouverture est la composition de l'érosion suivi d'une dilatation par un élément structurant. La fermeture est décrite par la composition de la dilatation suivi de l'érosion par un l'élément structurant.
 
-https://github.com/daehli/nonlinear-filter/blob/master/src/images/filtreMedian/filtreMedianResultat1.png
 [filtreMedian1]: https://github.com/daehli/nonlinear-filter/raw/master/src/images/filtreMedian/filtreMedianResultat1.png
 [filtreMedian2]: https://github.com/daehli/nonlinear-filter/raw/master/src/images/filtreMedian/filtreMedianResultat2.png
 [filtreMedian3]: https://github.com/daehli/nonlinear-filter/raw/master/src/images/filtreMedian/filtreMedianResultat3.png
